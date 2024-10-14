@@ -1,7 +1,7 @@
 <h1 align="center">Hello, i'm Romain</h1>
 <h3 align="center">An IT Student from France specialized in the domain of data</h3>
 
-- 🌱 I’m currently learning **AI development with CS50, and hope to learn how to create health centered projetcs**
+- 🌱 I’m currently learning more about **Artificial Intelligence and how to apply it in HealthCare**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
