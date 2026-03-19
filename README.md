@@ -6,7 +6,6 @@ Working on data related stuff, interested in AI & BlockChain technologies.
 ---
 
 **My next objectives :**
-- Finish & self host my portfolio
 - Learn rust
 - Build data intensive tools
 - Sleep (optional)
