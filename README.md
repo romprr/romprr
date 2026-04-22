@@ -1,7 +1,7 @@
 # Rom
 
 Student @ INSA Lyon  
-Working on data related stuff, interested in AI & BlockChain technologies.
+Working on data related stuff, interested in AI & BlockChain technologies.  
 If you're curious, [here is my personnal space](www.romprr.fr).
 
 ---
