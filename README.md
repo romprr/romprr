@@ -2,6 +2,7 @@
 
 Student @ INSA Lyon  
 Working on data related stuff, interested in AI & BlockChain technologies.
+If you're curious, [here is my personnal space](www.romprr.fr).
 
 ---
 
@@ -9,6 +10,7 @@ Working on data related stuff, interested in AI & BlockChain technologies.
 - Learn rust
 - Build data intensive tools
 - Sleep (optional)
+- Run a semi marathon
 
 ---
 
